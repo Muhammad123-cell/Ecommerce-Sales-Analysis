@@ -2,7 +2,7 @@
 
 A Power BI dashboard built to analyze e-commerce order data for a retail store, covering sales, profit, product performance, regional trends, customer behavior, and payment methods for the year 2018.
 
-![Ecommerce Sales Dashboard] Ecommerce_Sales_Dashboard.png
+![Ecommerce Sales Dashboard](Ecommerce_Sales_Dashboard.png)
 
 ## Project Files
 
