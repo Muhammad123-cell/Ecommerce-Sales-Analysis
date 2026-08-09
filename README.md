@@ -2,7 +2,11 @@
 
 A Power BI dashboard built to analyze e-commerce order data for a retail store, covering sales, profit, product performance, regional trends, customer behavior, and payment methods for the year 2018.
 
-![Ecommerce Sales Dashboard](Ecommerce_Sales_Dashboard.png)
+# Dashboard Preview
+
+<p align="center">
+  <img src="Ecommerce Sales Dashboard.png" alt="Ecommerce Sales Dashboard" width="100%">
+</p>
 
 ## Project Files
 
@@ -63,8 +67,3 @@ Segmented across: Month, Sub-Category, Category, Payment Mode, State, and Custom
 ## Conclusion
 
 The dashboard shows a business generating solid revenue but converting very little of it into profit. Breaking performance down by product, payment mode, geography, customer, and time reveals exactly where margin is being lost, shifting the analysis from "are we profitable" to "where are we profitable and where are we losing margin." Acting on the recommendations above can improve profitability without necessarily growing total sales.
-
-## Tools Used
-
-- Power BI Desktop for data modeling, DAX measures, and dashboard visualization
-- CSV source files for order and product/transaction data
